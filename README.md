@@ -72,7 +72,7 @@
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdblzx2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![bilibili](https://img.shields.io/badge/Bilibili-1DA1F2?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/TYfkyn1)
+[![Bilibili](https://img.shields.io/badge/哔哩哔哩-00A1D6?logo=bilibili&logoColor=white&label=我的频道)(https://b23.tv/TYfkyn1)
 
 </div>
 

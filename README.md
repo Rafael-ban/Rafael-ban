@@ -1,72 +1,81 @@
 <div align="center">
-
+ 
 # Rafael-ban
 
 <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
   
-[动态打字效果展示全栈开发者相关文字]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning%2C+always+growing;Passionate+about+technology)](https://git.io/typing-svg)
 
 </div>
 
-## 🌈 关于我
+## 🌈 About Me 
 
-> 从2023年开始把咖啡转化为代码
+> Turning coffee into code since 2023
 
-- 🔭 目前正在开发有趣的网络项目
-- 📚 每天学习新技术
-- 🎯 2025年目标：为开源项目做出更多贡献
-- ⚡ 有趣的事实：我喜欢探索新的技术栈
+- 🔭 Currently working on exciting web projects
+- 📚 Learning new technologies every day
+- 🎯 2025 Goals: Contribute more to Open Source
+- ⚡ Fun fact: I love exploring new tech stacks
 
-## 💻 技术与工具
+## 💻 Technologies & Tools
 
 <div align="center">
 
-### 前端
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-### 后端
+### Backend
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
-### 工具
+### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-## 📊 GitHub 统计
+## 📊 GitHub Statistics
 
 <div align="center">
-  [GitHub统计数据展示]
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafael-ban&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-ban&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
 </div>
 
-## 🌟 精选项目
+## 🌟 Featured Projects
 
 <div align="center">
-[展示Findreve和Roll-call项目卡片]
+
+[![Findreve](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=Findreve&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Findreve)
+
+[![Roll-call](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=Roll-call&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Roll-call)
+
 </div>
 
-## 🏆 GitHub 成就
+## 🏆 GitHub Trophies
 
 <div align="center">
-[GitHub奖杯展示]
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Rafael-ban&theme=nord&column=7&no-frame=true&no-bg=true)
+
 </div>
 
-## 📈 贡献图表
+## 📈 Contribution Graph
 
 <div align="center">
-[活动贡献图表展示]
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafael-ban&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-## 🤝 与我联系
+## 🤝 Connect with me
 
 <div align="center">
   
-[![邮箱](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdblzx2005@gmail.com)
-[![哔哩哔哩](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/182042644)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdblzx2005@gmail.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/182042644)
 [![QQ](https://img.shields.io/badge/QQ-4AB7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](tencent://message/?uin=1904396382)
 
 </div>
@@ -74,7 +83,7 @@
 ---
 
 <div align="center">
-  [访问计数器]
+  <img src="https://komarev.com/ghpvc/?username=Rafael-ban&style=flat-square&color=blue" alt="Profile views"/>
   
-  _"代码就像幽默。当你必须解释它的时候，它就不好了。"_ – Cory House
+  _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 </div>

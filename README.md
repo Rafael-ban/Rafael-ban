@@ -1,6 +1,8 @@
 <div align="center">
-  
+ 
 # Rafael-ban
+
+<a href="README.md">中文</a> | <a href="README_EN.md">English</a>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning%2C+always+growing;Passionate+about+technology)](https://git.io/typing-svg)
 

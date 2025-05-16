@@ -46,8 +46,10 @@
 
 <div align="center">
 
-[![Roll-call](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=your-repo-name&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Roll-call)
-[![Findreve](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=your-repo-name&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Findreve)
+[![Findreve](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=Findreve&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Findreve)
+
+[![Roll-call](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=Roll-call&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Roll-call)
+
 </div>
 
 ## 🏆 GitHub Trophies

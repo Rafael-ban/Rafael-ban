@@ -4,7 +4,7 @@
   
 <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=全栈开发工程师;持续学习%2C+不断进步;热爱技术创新)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=持续学习%2C+不断进步;热爱技术创新)](https://git.io/typing-svg)
 
 </div>
 

@@ -56,7 +56,7 @@
   
 [![邮箱](https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdblzx2005@gmail.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/your-bilibili-id)
-[![QQ](https://img.shields.io/badge/QQ-4AB7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](tencent://message/?uin=your-qq-number)
+[![QQ](https://img.shields.io/badge/QQ-4AB7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](tencent://message/?uin=1904396382)
 
 </div>
 

@@ -21,7 +21,9 @@
 
 <div align="center">
 
-[![Best Friend1](https://img.shields.io/badge/Yuerchu-181717?style=flat&logo=github&logoColor=blue)](https://github.com/Yuerchu)
+共同进步的小伙伴们：
+
+[![Best Friend2](https://images.weserv.nl/?url=https://github.com/Yuerchu.png?h=50&w=50&mask=circle)](https://github.com/Yuerchu)
 
 </div>
 

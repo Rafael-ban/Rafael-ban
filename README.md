@@ -20,7 +20,7 @@
 ## 🥳 最好的朋友
 
 <div align="center">
-![BestFriend-Yuerchu](https://img.shields .io/badge/BestFriend-Yuerchu-blue.svg)]( https://github.com/Yuerchu)
+[![BestFriend-Yuerchu](https://img.shields.io/badge/BestFriend-Yuerchu-blue.svg)](https://github.com/Yuerchu)
 </div>
 
 ## 📊 GitHub 统计

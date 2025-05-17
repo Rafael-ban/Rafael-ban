@@ -17,6 +17,17 @@
 - 🎯 2025 Goals: Contribute more to Open Source
 - ⚡ Fun fact: I love exploring new tech stacks
 
+## 👫 Best friend
+
+<div align="center">
+
+Small partners who make progress together:
+
+[![Best Friend0](https://images.weserv.nl/?url=https://github.com/Yuerchu.png?h=50&w=50&mask=circle)](https://github.com/Yuerchu)
+
+</div>
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">

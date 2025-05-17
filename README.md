@@ -23,7 +23,7 @@
 
 共同进步的小伙伴们：
 
-[![Best Friend2](https://images.weserv.nl/?url=https://github.com/Yuerchu.png?h=50&w=50&mask=circle)](https://github.com/Yuerchu)
+[![Best Friend0](https://images.weserv.nl/?url=https://github.com/Yuerchu.png?h=50&w=50&mask=circle)](https://github.com/Yuerchu)
 
 </div>
 

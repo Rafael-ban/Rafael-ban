@@ -17,6 +17,12 @@
 - 🎯 2025目标：为开源项目贡献更多代码
 - ⚡ 格言：技术改变世界
 
+## 🥳 最好的朋友
+
+<div align="center">
+[![BestFriend-Yuerchu](https://img.shields .io/badge/BestFriend-Yuerchu-blue.svg)]( https://github.com/Yuerchu)
+</div>
+
 ## 📊 GitHub 统计
 
 <div align="center">

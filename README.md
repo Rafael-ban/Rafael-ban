@@ -1,6 +1,6 @@
 <div align="center">
   
-# 你好 👋 我是 Rafael-ban
+# 你好 😎 我是 Rafael-ban
   
 <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
 

@@ -12,6 +12,8 @@
 
 > Turning coffee into code since 2023
 
+- 🎓 School：College of Arts and Sciences, Hubei Normal University
+- 💻 Major：Computer Network Technology
 - 🔭 Currently working on exciting web projects
 - 📚 Learning new technologies every day
 - 🎯 2025 Goals: Contribute more to Open Source

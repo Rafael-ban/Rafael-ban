@@ -15,8 +15,8 @@
 - 🎓 **Education**: Hubei Normal University for General Education · Computer Network Technology
 - ✍️ **Blog**: [Тенеход's Den](https://rafael.xiaoqiu.in) (Tech & Photography)
 - 🚀 **Open Source Contributions**:
-  - 🛠️ **[airi](https://github.com/hime-project/airi)**: Core developer exploring the frontier of AI Agents.
-  - 🌐 **[NiceGUI](https://github.com/zauberzeug/nicegui)**: Leading the Chinese localization to empower Python UI developers in China.
+  - 🛠️ **[airi](https://github.com/Moeru-ai/airi)**: Core developer exploring the frontier of AI Agents.
+  - 🌐 **[NiceGUI Docs](https://github.com/Yuerchu/NiceGUI-docs)**: Lead contributor for Chinese localization, empowering Python UI developers in China.
 - ⚡ **Motto**: Code is not just logic, it's a way to perceive the world.
 
 ## 🛠️ Skills & Tech Stack
@@ -33,17 +33,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafael-ban&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-ban&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafael-ban&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&locale=en"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-ban&layout=compact&langs_count=7&theme=transparent&hide_border=true&locale=en"/>
 </div>
 
 ## 🌟 Key Contributions & Projects
 
 <div align="center">
 
-[![NiceGUI Contribution](https://github-readme-stats.vercel.app/api/pin/?username=zauberzeug&repo=nicegui&theme=transparent&hide_border=true)](https://github.com/zauberzeug/nicegui)
-
-[![airi Project](https://github-readme-stats.vercel.app/api/pin/?username=hime-project&repo=airi&theme=transparent&hide_border=true)](https://github.com/hime-project/airi)
+<a href="https://github.com/Yuerchu/NiceGUI-docs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuerchu&repo=NiceGUI-docs&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/Moeru-ai/airi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moeru-ai&repo=airi&theme=transparent&hide_border=true" />
+</a>
 
 </div>
 

@@ -1,31 +1,32 @@
 <div align="center">
   
-# 你好 😎 我是 Тенеход
+# 你好 😎 我是 Тенеход (Rafael)
   
 <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=持续学习%2C+不断进步;热爱技术创新)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ciallo～(∠・ω<+);你是我的master吗...;开源贡献者+%26+开发者;热爱技术创新)](https://git.io/typing-svg)
 
 </div>
 
 ## 🌈 个人简介 
 
-> 热爱编程，热爱生活
+> 致力于开源社区建设，让优秀的工具触手可及。
 
-- 🎓 学校：湖北师范大学文理学院
-- 💻 专业：计算机网络技术
-- 🔭 正在开发有趣的项目
-- 📚 保持学习的激情
-- 🎯 2025目标：为开源项目贡献更多代码
-- ⚡ 格言：技术改变世界
+- 🎓 **背景**：湖北师范大学文理学院 · 计算机网络技术
+- ✍️ **博客**：[Тенеход的小窝](https://rafael.xiaoqiu.in) (Hugo / PVE / 摄影)
+- 🚀 **开源贡献**：
+  - 🛠️ **[airi](https://github.com/hime-project/airi)**：深度参与开发，探索 AI 驱动的未来。
+  - 🌐 **[NiceGUI](https://github.com/zauberzeug/nicegui)**：官方中文翻译负责人，致力于提升国内 Python UI 开发体验。
+- ⚡ **格言**：代码不仅是逻辑，更是对世界的一种理解。
 
-## 👫 最好的朋友
+## 🛠️ 技术栈与工具
 
 <div align="center">
 
-共同进步的小伙伴们：
-
-[![Best Friend0](https://images.weserv.nl/?url=https://github.com/Yuerchu.png?h=50&w=50&mask=circle)](https://github.com/Yuerchu)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NiceGUI](https://img.shields.io/badge/NiceGUI-000000?style=for-the-badge&logo=python&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PVE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 </div>
 
@@ -36,29 +37,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-ban&layout=compact&langs_count=7&theme=transparent&hide_border=true&locale=cn"/>
 </div>
 
-## 🌟 精选项目
+## 🌟 核心贡献与项目
 
 <div align="center">
 
-[![Findreve](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=Findreve&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Findreve)
+[![NiceGUI Contribution](https://github-readme-stats.vercel.app/api/pin/?username=zauberzeug&repo=nicegui&theme=transparent&hide_border=true)](https://github.com/zauberzeug/nicegui)
 
-[![Roll-call](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-ban&repo=Roll-call&theme=transparent&hide_border=true)](https://github.com/Rafael-ban/Roll-call)
-
-</div>
-
-## 🏆 GitHub 成就
-
-<div align="center">
-
-![奖杯](https://github-profile-trophy.vercel.app/?username=Rafael-ban&theme=nord&column=7&no-frame=true&no-bg=true&locale=cn)
-
-</div>
-
-## 📈 贡献图表
-
-<div align="center">
-
-[![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=Rafael-ban&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![airi Project](https://github-readme-stats.vercel.app/api/pin/?username=hime-project&repo=airi&theme=transparent&hide_border=true)](https://github.com/hime-project/airi)
 
 </div>
 
@@ -66,9 +51,10 @@
 
 <div align="center">
   
-[![邮箱](https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdblzx2005@gmail.com)
-[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/your-bilibili-id)
+[![个人主页](https://img.shields.io/badge/Blog-36BCF7?style=for-the-badge&logo=hugo&logoColor=white)](https://rafael.xiaoqiu.in)
+[![邮箱](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdblzx2005@gmail.com)
 [![QQ](https://img.shields.io/badge/QQ-4AB7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](tencent://message/?uin=1904396382)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3494360341775833)
 
 </div>
 
@@ -76,6 +62,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rafael-ban&style=flat-square&color=blue" alt="访问统计"/>
-  
+  <br/>
   _"代码如人生，简约而不简单"_
 </div>

@@ -15,8 +15,8 @@
 - 🎓 **背景**：湖北师范大学文理学院 · 计算机网络技术
 - ✍️ **博客**：[Тенеход的小窝](https://rafael.xiaoqiu.in) (Hugo / PVE / 摄影)
 - 🚀 **开源贡献**：
-  - 🛠️ **[airi](https://github.com/hime-project/airi)**：深度参与开发，探索 AI 驱动的未来。
-  - 🌐 **[NiceGUI](https://github.com/zauberzeug/nicegui)**：官方中文翻译负责人，致力于提升国内 Python UI 开发体验。
+  - 🛠️ **[airi](https://github.com/Moeru-ai/airi)**：深度参与开发，探索 AI 驱动的未来。
+  - 🌐 **[NiceGUI 中文文档](https://github.com/Yuerchu/NiceGUI-docs)**：核心翻译贡献者，致力于提升国内 Python UI 开发体验。
 - ⚡ **格言**：代码不仅是逻辑，更是对世界的一种理解。
 
 ## 🛠️ 技术栈与工具
@@ -41,9 +41,12 @@
 
 <div align="center">
 
-[![NiceGUI Contribution](https://github-readme-stats.vercel.app/api/pin/?username=zauberzeug&repo=nicegui&theme=transparent&hide_border=true)](https://github.com/zauberzeug/nicegui)
-
-[![airi Project](https://github-readme-stats.vercel.app/api/pin/?username=hime-project&repo=airi&theme=transparent&hide_border=true)](https://github.com/hime-project/airi)
+<a href="https://github.com/Yuerchu/NiceGUI-docs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuerchu&repo=NiceGUI-docs&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/Moeru-ai/airi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moeru-ai&repo=airi&theme=transparent&hide_border=true" />
+</a>
 
 </div>
 

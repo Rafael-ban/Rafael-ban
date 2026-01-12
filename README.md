@@ -41,10 +41,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Yuerchu/NiceGUI-docs">
+<a href="https://github.com/rhodesepass/neo-assetmaker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuerchu&repo=NiceGUI-docs&theme=transparent&hide_border=true" />
 </a>
-<a href="https://github.com/Moeru-ai/airi">
+<a href="https://github.com/rhodesepass/docs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moeru-ai&repo=airi&theme=transparent&hide_border=true" />
 </a>
 

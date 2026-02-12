@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there 😎 I'm Тенеход (Rafael)
+# Hi there 😎 I'm Тенеход (Rafael-Icarus)
   
 <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
 
@@ -12,7 +12,6 @@
 
 > Passionate Full-stack Developer & Open Source Contributor. Committed to bridging the gap between cutting-edge tools and the developer community through localization and development.
 
-- 🎓 **Background**: Hubei Normal University for General Education · Computer Network Technology
 - ✍️ **Technical Blog**: [Тенеход's Den](https://rafael.xiaoqiu.in) (Focusing on Hugo, Virtualization, and Creative Photography)
 - 🚀 **Core Contributions**:
   - 🛠️ **[Moeru-ai/airi](https://github.com/Moeru-ai/airi)**: Contributing to the development of next-gen AI Agents and innovative AI frameworks.
@@ -28,26 +27,6 @@
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
-</div>
-
-## 📊 GitHub Ecosystem
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafael-ban&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&locale=en"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-ban&layout=compact&langs_count=7&theme=transparent&hide_border=true&locale=en"/>
-</div>
-
-## 🌟 Featured Contributions
-
-<div align="center">
-
-<a href="https://github.com/rhodesepass/docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuerchu&repo=NiceGUI-docs&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/rhodesepass/neo-assetmaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moeru-ai&repo=airi&theme=transparent&hide_border=true" />
-</a>
 
 </div>
 

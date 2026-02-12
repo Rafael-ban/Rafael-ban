@@ -12,7 +12,6 @@
 
 > 致力于开源社区建设，让优秀的工具触手可及。
 
-- 🎓 **背景**：湖北师范大学文理学院 · 计算机网络技术
 - ✍️ **博客**：[Тенеход的小窝](https://rafael.xiaoqiu.in) (Hugo / PVE / 摄影)
 - 🚀 **开源贡献**：
   - 🛠️ **[airi](https://github.com/Moeru-ai/airi)**：深度参与开发，探索 AI 驱动的未来。
@@ -27,26 +26,6 @@
 ![NiceGUI](https://img.shields.io/badge/NiceGUI-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![PVE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
-</div>
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafael-ban&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&locale=cn"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-ban&layout=compact&langs_count=7&theme=transparent&hide_border=true&locale=cn"/>
-</div>
-
-## 🌟 核心贡献与项目
-
-<div align="center">
-
-<a href="https://github.com/rhodesepass/neo-assetmaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yuerchu&repo=NiceGUI-docs&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/rhodesepass/docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moeru-ai&repo=airi&theme=transparent&hide_border=true" />
-</a>
 
 </div>
 
